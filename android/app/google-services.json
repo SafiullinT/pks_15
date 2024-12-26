@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069693169424",
+    "project_id": "pks14-550f4",
+    "storage_bucket": "pks14-550f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069693169424:android:568d7bd1e0a0b65ebc7f95",
+        "android_client_info": {
+          "package_name": "pks.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbF7rj7ZtPaHLzFrMkbhKGlYufGf3p4r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069693169424:android:0decf494271f0a74bc7f95",
+        "android_client_info": {
+          "package_name": "pks.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbF7rj7ZtPaHLzFrMkbhKGlYufGf3p4r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
